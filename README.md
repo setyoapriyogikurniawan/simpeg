@@ -4,7 +4,7 @@ import database pegawai.sql
 
 konfigurasi application/config/database.php
 
-buka http://localhost/simpeg-Sistem-Infromasi-Kepegawaian-
+buka http://localhost/simpeg-Simpeg-
 
 login = username: admin password: admin
 
